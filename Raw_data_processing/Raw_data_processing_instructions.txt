@@ -1,0 +1,7 @@
+# Process for processing raw flight trajectory data
+
+# 1. Download flight records with format lt6 from an open resource repository: https://c3.ndc.nasa.gov/dashlink/resources/132/
+
+# 2. Use the matlab code in the "lt6_to_mat folder" to convert the original lt6 file to mat file.
+
+# 3.  Execute the python programs in the "mat_to_npy" folder in order of serial number to convert the mat file to the final npy file

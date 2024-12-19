@@ -1,0 +1,6 @@
+filterpy==1.4.5
+matplotlib==3.3.4
+numpy==1.19.5
+tensorflow==2.18.0
+tensorflow_gpu==1.14.0
+torch==2.5.1
