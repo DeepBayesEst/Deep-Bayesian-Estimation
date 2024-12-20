@@ -53,6 +53,8 @@ FlightLLM enables highly accurate trajectory prediction in line with flight dyna
 FlightLLM can effectively measure the uncertainty of predictions.
 ![Illustrating the prediction uncertainty of FlightLLM](Uncertainty.png) -->
 
+## Note
+
 If your work involves this code, please cite our paper: 
 
 [1]Yan S, Liang Y, Zheng L, et al. Explainable Gated Bayesian Recurrent Neural Network for Non-Markov State Estimation[J]. IEEE Transactions on Signal Processing, 2024.
