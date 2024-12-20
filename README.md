@@ -4,9 +4,11 @@ This repository is the official implementation of [Explainable Gated Bayesian Re
 
 ![Illustrating the architecture of the proposed EGBRNN](EGBRNN.png).
 
+
+
 ## Requirements
 
-Different experiments are placed in different paths, each with a corresponding requirement.txt file. To install requirements:
+The code contains the tensorflow and pytorch implementations of EGBRNN. Different experiments are placed in different paths, each with a corresponding requirement.txt file. To install requirements:
 
 ```setup
 pip install -r requirements.txt
