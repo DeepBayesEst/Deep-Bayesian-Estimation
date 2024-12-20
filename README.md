@@ -39,8 +39,16 @@ In each experiment (tensorflow):
 (2) to test the EGBRNN, please execute:
 ```Test_EGBRNN.py```
 
-(3) gated network files:
-```internal_gated.py```
+For example,
+
+~~~~
+├── Filter_and_Smoother_TF
+   └── Deep_Bayesian_Filter
+         ├── Air_tracking
+            ├── EGBRNN
+               ├── EGBRNN_train.py
+               ├── EGBRNN_test.py
+~~~~
 
 For the pytorch version of EGBRNN, to train and test the EGBRNN, please execute:
 ```task_filter.py```
