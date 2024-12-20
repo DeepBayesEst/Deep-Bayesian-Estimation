@@ -1,7 +1,6 @@
 # EGBRNN: Explainable Gated Bayesian Recurrent Neural Network for Non-Markov State Estimation
 
-This repository is the official implementation of [Explainable Gated Bayesian Recurrent Neural Network for Non-Markov State Estimation](https://ieeexplore.ieee.org/abstract/document/10508326). 
-and [Explainable Bayesian Recurrent Neural Smoother to Capture Global State Evolutionary Correlations](https://arxiv.org/abs/2406.11163)
+This repository is the official implementation of [Explainable Gated Bayesian Recurrent Neural Network for Non-Markov State Estimation](https://ieeexplore.ieee.org/abstract/document/10508326).
 
 ![Illustrating the architecture of the proposed EGBRNN](EGBRNN.png).
 
@@ -56,9 +55,9 @@ FlightLLM can effectively measure the uncertainty of predictions.
 
 If your work involves this code, please cite our paper: 
 
-Yan S, Liang Y, Zheng L, et al. Explainable Gated Bayesian Recurrent Neural Network for Non-Markov State Estimation[J]. IEEE Transactions on Signal Processing, 2024.
+[1]Yan S, Liang Y, Zheng L, et al. Explainable Gated Bayesian Recurrent Neural Network for Non-Markov State Estimation[J]. IEEE Transactions on Signal Processing, 2024.
 
-Yan S, Liang Y, Zhang H, et al. Explainable Bayesian Recurrent Neural Smoother to Capture Global State Evolutionary Correlations[J]. arXiv preprint arXiv:2406.11163, 2024.
+[2]Yan S, Liang Y, Zhang H, et al. Explainable Bayesian Recurrent Neural Smoother to Capture Global State Evolutionary Correlations[J]. arXiv preprint arXiv:2406.11163, 2024.
 
-Yan S, Liang Y, Zheng L, et al. Memory-biomimetic deep Bayesian filtering[J]. Information Fusion, 2024, 112: 102580.
+[3]Yan S, Liang Y, Zheng L, et al. Memory-biomimetic deep Bayesian filtering[J]. Information Fusion, 2024, 112: 102580.
 
