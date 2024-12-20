@@ -55,7 +55,7 @@ FlightLLM can effectively measure the uncertainty of predictions.
 
 ## Note
 
-If your work involves this code, please cite our paper: 
+If your work involves this code, please pay attention to our our papers: 
 
 [1]Yan S, Liang Y, Zheng L, et al. Explainable Gated Bayesian Recurrent Neural Network for Non-Markov State Estimation[J]. IEEE Transactions on Signal Processing, 2024.
 
